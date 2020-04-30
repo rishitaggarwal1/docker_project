@@ -1,2 +1,2 @@
 # Website-Project-Using-Docker
-This is the docker-compose yml file of my website project with the use of wordpress and mysql.
+This is a website project made using docker. In this I have used Wordpress and MySQL images.
